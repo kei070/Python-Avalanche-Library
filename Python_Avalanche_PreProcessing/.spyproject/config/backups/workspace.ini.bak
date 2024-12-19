@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['Gen_Gridded_Preds_NORA3.py', 'Gridded_Predictors/Gen_Gridded_seNorge_Predictors.py', 'Gen_Gridded_Preds_NorCP.py', 'Gridded_Predictors/Gen_Gridded_Temperature_Predictors.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
