@@ -1,7 +1,8 @@
 # Python-Avalanche-Library
 
 This repository contains the code used to preprocess the data and train the machine-learning models for the
-article Predicting avalanche danger in northern Norway using statistical models submitted to The Cryosphere.
+article Eiselt & Graversen: "Predicting avalanche danger in northern Norway using statistical models" submitted to The Cryosphere.
+A preprint is available at EGUSphere: https://doi.org/10.5194/egusphere-2024-2865
 
 The code is strutured into three libraries:
 (1) Python_Avalanche_Module
